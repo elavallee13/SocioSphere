@@ -1,0 +1,32 @@
+{
+  "name": "sociosphere",
+  "version": "1.0.0",
+  "description": "An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elavallee13/SocioSphere.git"
+  },
+  "keywords": [
+    "API",
+    "Social",
+    "Network",
+    "Web",
+    "Application"
+  ],
+  "author": "Eric Lavallee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elavallee13/SocioSphere/issues"
+  },
+  "homepage": "https://github.com/elavallee13/SocioSphere#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongoose": "^7.4.3"
+  }
+}
