@@ -26,6 +26,7 @@
   "homepage": "https://github.com/elavallee13/SocioSphere#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "helmet": "^7.0.0",
     "moment": "^2.29.4",
     "mongoose": "^7.4.3"
   }

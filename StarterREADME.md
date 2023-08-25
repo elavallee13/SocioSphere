@@ -1,4 +1,4 @@
-se the following guidelines to set up your models and API routes:
+set the following guidelines to set up your models and API routes:
 
 ### Models
 
