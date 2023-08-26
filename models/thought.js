@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const moment = require('moment');  // Install via npm if you haven't already
+const moment = require('moment');
 
 // Reaction schema
 const reactionSchema = new mongoose.Schema({
