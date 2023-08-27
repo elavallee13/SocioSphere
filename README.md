@@ -75,3 +75,6 @@ SocioSphere is licensed under the [MIT License](LICENSE).
 SocioSphere is a project designed to foster online connections and facilitate meaningful interactions. Built with modern technologies, it provides a solid foundation for social network web applications. Whether you're a developer looking to contribute or a user excited to join the SocioSphere community, we welcome you to explore and engage with our platform. 
 
 For more information, visit the [SocioSphere GitHub repository](https://github.com/elavallee/SocioSphere).
+
+https://github.com/elavallee13/SocioSphere/assets/126723001/013675f8-5c16-4d40-ba62-71a5d63cc6a7
+
